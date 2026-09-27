@@ -1,4 +1,4 @@
-<p># 📝 Blog API
+<h1>📝 Blog API</h1>
 
 A RESTful Blog API built with **FastAPI**, designed to provide a clean, scalable, and high-performance backend for managing blog posts and users.
 
@@ -6,7 +6,7 @@ The project demonstrates modern backend development concepts including API routi
 
 ---
 
-## 🚀 Features
+<h1>🚀 Features</h1>
 
 - ✅ Fast and lightweight REST API using FastAPI
 - ✅ Create, read, update, and delete blog posts
@@ -25,7 +25,7 @@ The project demonstrates modern backend development concepts including API routi
 
 ---
 
-## 🛠️ Tech Stack
+<h1>🛠️ Tech Stack</h1>
 
 | Technology | Purpose |
 |---|---|
